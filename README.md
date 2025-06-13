@@ -76,16 +76,3 @@ This dashboard helps HR managers and executives:
 
 ---
 
-## 🔗 Project Access
-
-- 📁 Power BI File: `HR Analytics.pbix`
-- 🔗 Live demo (if hosted): *Coming Soon*
-
----
-
-## 👩‍💼 About Me
-
-I am a Business Analyst skilled in building data-driven solutions using Power BI, Python, and SQL. Connect with me on [LinkedIn](https://linkedin.com/in/dhanushree-s-6ba943248) or explore more projects on [GitHub](https://github.com/Dhanu1620).
-
----
-
